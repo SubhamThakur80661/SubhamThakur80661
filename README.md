@@ -50,12 +50,6 @@ RAG chatbot — upload PDFs and ask questions in natural language. LangChain pip
 
 Also live: [Trace](https://trace-app-hydra-hamerins-projects.vercel.app) (log viewer) · [CyberJoar AI](https://cyberjoar-ai-hydra-hamerins-projects.vercel.app) (intel + electoral dashboards) · [TokenTease](https://tokentease-hydra-hamerins-projects.vercel.app) (token leaderboard)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhamThakur80661&theme=dark&hide_border=true)](https://github.com/SubhamThakur80661)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhamThakur80661&bg_color=0d1117&color=9e9e9e&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/SubhamThakur80661)
-
 ## 💼 Experience
 
 **AI Engineer (Freelance) — Drytis Arete**
