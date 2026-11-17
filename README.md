@@ -1,8 +1,10 @@
 # Hi, I'm Subham Thakur 👋
 
-**Full-Stack Developer · AI Engineer · Generative AI Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=650&lines=Full-Stack+Developer;AI+Engineer;Generative+AI+Developer;Building+things+that+work+in+the+real+world" alt="Typing animation" />
+</p>
 
-I build full-stack web applications and AI-powered agents — from React + FastAPI platforms to RAG pipelines that let you chat with your documents. Currently building **Agent Anywhere**, an AI social media management platform, and working as an AI Engineer (Freelance) at **Drytis Arete**, where I test AI-built web applications end to end as a real user.
+I like building things that actually work — full-stack apps people use, AI agents that do real jobs, and tools I reach for myself. By day I test AI-built apps as a real user at Drytis Arete, which mostly means finding what the agent missed. Then I go build my own stuff with those lessons. Right now I'm deep into **Agent Anywhere**, an AI social media manager.
 
 ## 🛠️ Tech Stack
 
@@ -46,10 +48,13 @@ RAG chatbot — upload PDFs and ask questions in natural language. LangChain pip
 **Stack:** Python · Streamlit · LangChain · FAISS · Hugging Face
 [Live Demo →](https://ymcrqleh7utgmxcff3txpg.streamlit.app/) · [Repository →](https://github.com/SubhamThakur80661/Ask-Pdf-open-ai-)
 
+Also live: [Trace](https://trace-app-hydra-hamerins-projects.vercel.app) (log viewer) · [CyberJoar AI](https://cyberjoar-ai-hydra-hamerins-projects.vercel.app) (intel + electoral dashboards) · [TokenTease](https://tokentease-hydra-hamerins-projects.vercel.app) (token leaderboard)
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SubhamThakur80661&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamThakur80661&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhamThakur80661&theme=dark&hide_border=true)](https://github.com/SubhamThakur80661)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhamThakur80661&bg_color=0d1117&color=9e9e9e&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/SubhamThakur80661)
 
 ## 💼 Experience
 
