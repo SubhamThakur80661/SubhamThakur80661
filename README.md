@@ -38,17 +38,17 @@ Full-stack email campaign scheduler — CSV upload, schedule-later campaigns, re
 **Stack:** TypeScript · Express · Prisma · PostgreSQL · BullMQ · Redis
 [Live Demo →](https://reachinbox-scheduler-hydra-hamerins-projects.vercel.app) · [Repository →](https://github.com/SubhamThakur80661/reachinbox-scheduler)
 
-### 🔍 SEO Checker (RankPilot AI)
-SEO audit and keyword research dashboard — enter a URL, get on-page analysis, AI-driven recommendations and semantic keywords, with auth and score history.
+### 🔍 RankVista
+SEO audit dashboard — enter a URL, get a scored report across eight categories, with auth and score history.
 **Stack:** Node.js · Express · MongoDB · OpenAI · React 19 · Tailwind
 [Live Demo →](https://seo-checker-hydra-hamerins-projects.vercel.app) · [Repository →](https://github.com/SubhamThakur80661/SEO-Checker)
 
-### 📚 Chat with Multiple PDFs
-RAG chatbot — upload PDFs and ask questions in natural language. LangChain pipeline with Hugging Face embeddings, FAISS retrieval and a Qwen chat model.
-**Stack:** Python · Streamlit · LangChain · FAISS · Hugging Face
-[Live Demo →](https://ymcrqleh7utgmxcff3txpg.streamlit.app/) · [Repository →](https://github.com/SubhamThakur80661/Ask-Pdf-open-ai-)
+### 📚 OpCit
+RAG chatbot — upload PDFs and ask questions in natural language. Every answer cites the exact source page. LangChain pipeline with Hugging Face embeddings, FAISS retrieval and a Qwen chat model.
+**Stack:** Python · LangChain · FastAPI · FAISS · Hugging Face · React
+[Live Demo →](https://opcit.vercel.app) · [Repository →](https://github.com/SubhamThakur80661/Ask-Pdf-open-ai-)
 
-Also live: [Trace](https://trace-app-hydra-hamerins-projects.vercel.app) (log viewer) · [CyberJoar AI](https://cyberjoar-ai-hydra-hamerins-projects.vercel.app) (intel + electoral dashboards) · [TokenTease](https://tokentease-hydra-hamerins-projects.vercel.app) (token leaderboard)
+Also live: [Portfolio](https://subham-thakur.vercel.app) · [Trace](https://trace-app-hydra-hamerins-projects.vercel.app) (log viewer) · [CyberJoar AI](https://cyberjoar-ai-hydra-hamerins-projects.vercel.app) (intel + electoral dashboards) · [TokenTease](https://tokentease-hydra-hamerins-projects.vercel.app) (token leaderboard)
 
 ## 💼 Experience
 
